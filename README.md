@@ -1,2 +1,2 @@
 # web-responsive
-this is responsive web.
+this is responsive web. and created by html and css flexbox.
